@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "846527180110",
+    "firebase_url": "https://creitive-7a31e.firebaseio.com",
+    "project_id": "creitive-7a31e",
+    "storage_bucket": "creitive-7a31e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846527180110:android:48d9ee1617d8da68",
+        "android_client_info": {
+          "package_name": "com.example.petarceho.creitive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846527180110-3odcjlo2mvelt9nrmehp9vane51sncpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petarceho.creitive",
+            "certificate_hash": "65c7327a9a1dcae2f4f99cafc5340e17e20956a4"
+          }
+        },
+        {
+          "client_id": "846527180110-9astiqlm8eore3iuf4m8ov69fhl58tjr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "846527180110-9astiqlm8eore3iuf4m8ov69fhl58tjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQEY9dkz1MuQNDHAV4Fg_sbIRxGwTC0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846527180110-9astiqlm8eore3iuf4m8ov69fhl58tjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
